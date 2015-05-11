@@ -1,6 +1,6 @@
 {
 	"name": "pomelo-rpc-zeromq",
-	"version": "0.0.8",
+	"version": "0.0.10",
 	"dependencies": {
 		"crc": "0.2.0",
 		"pomelo-loader": "0.0.5",
